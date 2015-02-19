@@ -12,6 +12,8 @@ A simple script to test the langage of a text file or a .srt file
  Se base sur la fréquence d'apparition théorique de chaque lettre
  dans les différente langues. 
 
+ Utiliser 'pyLang.py -h' pour obtenir la liste des options.
+
  Astuce pour parcourir les sous-titres d'une arborescence :
  Se mettre à la racine puis :
  
